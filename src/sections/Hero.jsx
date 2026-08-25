@@ -97,7 +97,7 @@ export const Hero = () => {
                 Contact Me <FaArrowRight className="w-5 h-5" />
               </Button>
               <a
-              href="https://drive.google.com/uc?export=download&id=1UCgNAl5b1jpIDo9uUqKEpxPyQ1-kGg8I"
+              href="https://drive.google.com/file/d/1HpJBHDmD7x35zfRXy7Zxc-MDf4HMry0l/view?usp=sharing"
             >
               <AnimatedBorderButton>
                 <FaDownload className="w-5 h-5" />
