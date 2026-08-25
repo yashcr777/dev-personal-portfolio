@@ -4,8 +4,8 @@ const experiences = [
     role: "Software Developer",
     company: "Hexaware Technologies",
     description:
-      "Leading frontend architecture for a suite of fintech products. Implemented micro-frontend architecture, reduced bundle size by 40%, and mentored a team of 5 developers.",
-    technologies: ["React", "TypeScript", "Next.js", "GraphQL","Python","Java"],
+      "I’m a software engineer focused on full-stack development, AI/LLM applications, and backend performance optimization. I’ve worked on enterprise platforms involving React.js, Python, Java Spring Boot, PostgreSQL, and Neo4j, building AI-powered code analysis and summarization solutions, optimizing data pipelines, and improving system performance and scalability. My work has helped reduce onboarding time, accelerate code analysis, automate parsing workflows, and improve application reliability.",
+    technologies: ["React", "TypeScript", "Next.js", "GraphQL","Python","Java","Neo4j"],
     current: true,
   },
   // {
