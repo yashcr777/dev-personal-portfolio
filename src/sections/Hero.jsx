@@ -96,10 +96,14 @@ export const Hero = () => {
               <Button size="lg">
                 Contact Me <FaArrowRight className="w-5 h-5" />
               </Button>
+              <a
+              href="https://drive.google.com/uc?export=download&id=1UCgNAl5b1jpIDo9uUqKEpxPyQ1-kGg8I"
+            >
               <AnimatedBorderButton>
                 <FaDownload className="w-5 h-5" />
                 Download CV
               </AnimatedBorderButton>
+            </a>
             </div>
 
             {/* Social Links */}
